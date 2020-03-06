@@ -1,15 +1,19 @@
 # Mo Skool 🎒
 
+
 Mo Skool is a code learning platform featuring an all-new simple, interactive and fun way to learn and master frontend programming languages. Mo Skool's ultimate mission is to provide this learning opportunity for all ages around the world.
+
 Students are greeted with a short survey about their current coding skills, then the app will match students with a roadmap relates to their coding skills. The roadmap is made of a series of short interactive questions, the student has the opportunity to interact with the question's code while looking at the real-time preview of the code. Students have the opportunity to learn about HTML, JavaScript, CSS, React, Styled-components, and other frontend topics.
 
 # Mo Skool MVP
 
 The MVP of Mo Skool is the quiz section of the app, which features:
-Coding editor with syntax highlighter and code beautifier
-Live preview renderer 
-Real-time Error  console
-The app currently only supports admin and student roles, admins have special access to create content for students, and students register to store their progress.
+
+- Coding editor with syntax highlighter and code beautifier
+- Live preview renderer 
+- Real-time Error  console
+
+The app supports admin and student roles, admins have special access to create content for students, and students register to store their progress.
 
 # About Me 🐾
 
