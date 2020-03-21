@@ -11,7 +11,7 @@ The MVP of Mo Skool is the quiz section of the app, which features:
 
 - Coding editor with syntax highlighter and code beautifier
 - Live preview renderer 
-- Real-time Error  console
+- Real-time Error console
 
 The app supports admin and student roles, admins have special access to create content for students, and students register to store their progress.
 
@@ -24,5 +24,10 @@ I was fortunate enough to move to the United States when I was little, and it wa
 Built with the future in mind, starting out as a web application but can be easily developed into a mobile app. 
 
 - POC Demo: Moskool.com 
-- Frontend: React
+- Design: React Material UI Library
+- Frontend: React (React Hooks, HOC, Context API)
 - Backend: Firebase
+
+# Contribute
+
+I can't do this on my own, I am looking for help in development, testing, and content creation.
