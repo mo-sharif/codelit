@@ -5,6 +5,7 @@ Mo Skool is a code learning platform featuring an all-new simple, interactive an
 
 Students are greeted with a short survey about their current coding skills, then the app will match students with a roadmap relates to their coding skills. The roadmap is made of a series of short interactive questions, the student has the opportunity to interact with the question's code while looking at the real-time preview of the code. Students have the opportunity to learn about HTML, JavaScript, CSS, React, Styled-components, and other frontend topics.
 
+![Mo Skool Landing Page](https://firebasestorage.googleapis.com/v0/b/tool-builder.appspot.com/o/seo%2Fmoskool.png?alt=media&token=b5a9a240-1d08-459a-8deb-93073b58c122)
 # Mo Skool MVP
 
 The MVP of Mo Skool is the quiz section of the app, which features:
