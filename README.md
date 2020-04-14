@@ -29,6 +29,6 @@ Built with the future in mind, starting out as a web application but can be easi
 - Frontend: React (React Hooks, HOC, Context API)
 - Backend: Firebase
 
-# Contribute
+# Contribute 🏆
 
-I can't do this on my own, I am looking for help in development, testing, and content creation.
+Feel free to send me PR if you would like to join me in building this awesome new platform 😍
