@@ -2,7 +2,7 @@
 
 [![CircleCI](https://circleci.com/gh/mo-sharif/MoSkool.svg?style=svg&circle-token=25e17fbacf3e095631aba484af8169e19df89031)](https://moskool.com)
 
-[![Mo Skool Landing Page](https://firebasestorage.googleapis.com/v0/b/tool-builder.appspot.com/o/seo%2Fmoskool.png?alt=media&token=b5a9a240-1d08-459a-8deb-93073b58c122)](https://moskool.com)
+[![Mo Skool Landing Page](https://firebasestorage.googleapis.com/v0/b/tool-builder.appspot.com/o/Demo_for_github%2FMoSkool_Courses.gif?alt=media&token=f45700ac-2b87-4968-91e2-8860820e35aa)](https://moskool.com)
 
 Mo Skool is a code learning platform featuring an all-new simple, interactive and fun way to learn and master frontend programming languages. Mo Skool's ultimate mission is to provide this learning opportunity for all ages around the world.
 
