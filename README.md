@@ -1,5 +1,6 @@
 # Mo Skool 🎒
-[![CircleCI](https://circleci.com/github/mo-sharif/MoSkool.svg?style=svg&circle-token=25e17fbacf3e095631aba484af8169e19df89031)](<LINK>)
+
+[![CircleCI](https://circleci.com/gh/mo-sharif/MoSkool.svg?style=svg&circle-token=25e17fbacf3e095631aba484af8169e19df89031)](moskool.com)
 
 ![Mo Skool Landing Page](https://firebasestorage.googleapis.com/v0/b/tool-builder.appspot.com/o/seo%2Fmoskool.png?alt=media&token=b5a9a240-1d08-459a-8deb-93073b58c122)
 
