@@ -1,8 +1,8 @@
 # Mo Skool 🎒
 
-[![CircleCI](https://circleci.com/gh/mo-sharif/MoSkool.svg?style=svg&circle-token=25e17fbacf3e095631aba484af8169e19df89031)](moskool.com)
+[![CircleCI](https://circleci.com/gh/mo-sharif/MoSkool.svg?style=svg&circle-token=25e17fbacf3e095631aba484af8169e19df89031)](https://moskool.com)
 
-![Mo Skool Landing Page](https://firebasestorage.googleapis.com/v0/b/tool-builder.appspot.com/o/seo%2Fmoskool.png?alt=media&token=b5a9a240-1d08-459a-8deb-93073b58c122)
+[![Mo Skool Landing Page](https://firebasestorage.googleapis.com/v0/b/tool-builder.appspot.com/o/seo%2Fmoskool.png?alt=media&token=b5a9a240-1d08-459a-8deb-93073b58c122)](https://moskool.com)
 
 Mo Skool is a code learning platform featuring an all-new simple, interactive and fun way to learn and master frontend programming languages. Mo Skool's ultimate mission is to provide this learning opportunity for all ages around the world.
 
@@ -26,7 +26,7 @@ I was fortunate enough to move to the United States when I was little, and it wa
 
 Built with the future in mind, starting out as a web application but can be easily developed into a mobile app. 
 
-- POC Demo: Moskool.com 
+- [Mo Skool Demo](https://moskool.com)
 - Design: React Material UI Library
 - Frontend: React (React Hooks, HOC, Context API)
 - Backend: Firebase
