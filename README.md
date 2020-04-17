@@ -2,13 +2,13 @@
 
 [![CircleCI](https://circleci.com/gh/mo-sharif/MoSkool.svg?style=svg&circle-token=25e17fbacf3e095631aba484af8169e19df89031)](https://moskool.com)
 
+
 [![Mo Skool Demo](demos/moskool_demo.gif)](https://moskool.com)
+
 
 Mo Skool built on sharing knowledge about modern React frontend development through fun and interactive questions.  Experience a new visual way to learn and master frontend programming languages. Mo Skool's ultimate mission is to provide this learning opportunity for all ages around the world.
 
 Sharing knowledge about React frontend development is what Mo Skool all about. Mo Skool makes learning React easy, curating important topics and segmenting courses by difficulty levels. Mo Skool delivers courses visually and interactively.
-
-[![Mo Skool Avanced React](demos/moskool_advanced_demo.gif)](https://moskool.com/courses/mo-pro)
 
 Best of all, Mo Skool is free to use, and I've built it to provide knowledge for all ages and levels. Expect to learn the following:
 
@@ -17,6 +17,9 @@ Best of all, Mo Skool is free to use, and I've built it to provide knowledge for
 - Adding JavaScript functionality in React
 - React Hooks, Context API, and Redux
 - Best UI/UX practices
+
+
+[![Mo Skool Avanced React](demos/moskool_advanced_demo.gif)](https://moskool.com/courses/mo-pro)
 
 
 # Mo Skool MVP
