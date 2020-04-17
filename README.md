@@ -21,24 +21,23 @@ Best of all, Mo Skool is free to use, and I've built it to provide knowledge for
 
 # Mo Skool MVP
 
-The MVP of Mo Skool is the quiz section of the app, which features:
 
 - Coding editor with syntax highlighter and code beautifier
 - Live preview renderer 
 - Real-time Error console
-
-The app supports admin and student roles, admins have special access to create content for students, and students register to store their progress.
+- Easy to use author tools to speed up content creation and curation.
+- Progress tracking and learning analysis 
 
 # About Me 🐾
 
-I was fortunate enough to move to the United States when I was little, and it was a dream come true when I experienced freedom for the first time. I've used this freedom wisely by dedicating my days to learn all about software engineering. My new skills have propelled me far in life. I was fortunate to relocate to San Francisco and use my skills to make a huge impact on several organizations. I believe this is the perfect time for me to share my experience and knowledge with the world and help others find success.
+I was fortunate enough to move to this country when I was very young, and it was my dream to have the freedom to learn at my own pace. Reading articles and watching videos about React wasn't efficient for me. Practicing and writing code was the most effective way for me to learn React. I am developing Mo Skool to become an interactive tool to learn and share knowledge about React and frontend development. Best of all, I want this learning experience to be free and available for everyone to enjoy.
 
 # Technology
 
-Built with the future in mind, starting out as a web application but can be easily developed into a mobile app. 
+Building Mo Skool with the future in mind, starting out as a web application but can be easily developed into a mobile app. 
 
 - [Mo Skool Demo](https://moskool.com)
-- Design: React Material UI Library
+- Design: Custom UI library + Material UI
 - Frontend: React (React Hooks, HOC, Context API)
 - Backend: Firebase
 
