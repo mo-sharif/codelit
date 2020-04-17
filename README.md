@@ -4,13 +4,14 @@
 
 [![Mo Skool Demo](demos/moskool_demo.gif)](https://moskool.com)
 
+Mo Skool built on sharing knowledge about modern React frontend development through fun and interactive questions.  Experience a new visual way to learn and master frontend programming languages. Mo Skool's ultimate mission is to provide this learning opportunity for all ages around the world.
+
+Sharing knowledge about React frontend development is what Mo Skool all about. Mo Skool makes learning React easy, curating important topics and segmenting courses by difficulty levels. Mo Skool delivers courses visually and interactively.
 
 [![Mo Skool Avanced React](demos/moskool_advanced_demo.gif)](https://moskool.com/courses/mo-pro)
 
+Students are welcomed with a short survey about their current coding skills, then the app will match students with a roadmap relates to their coding skills. The roadmap is made of a series of short interactive questions, the student has the opportunity to interact with the question's code while looking at the real-time preview of the code. Students have the opportunity to learn about HTML, JavaScript, CSS, React, Styled-components, and other frontend topics.
 
-Mo Skool is a code learning platform featuring an all-new simple, interactive and fun way to learn and master frontend programming languages. Mo Skool's ultimate mission is to provide this learning opportunity for all ages around the world.
-
-Students are greeted with a short survey about their current coding skills, then the app will match students with a roadmap relates to their coding skills. The roadmap is made of a series of short interactive questions, the student has the opportunity to interact with the question's code while looking at the real-time preview of the code. Students have the opportunity to learn about HTML, JavaScript, CSS, React, Styled-components, and other frontend topics.
 
 # Mo Skool MVP
 
