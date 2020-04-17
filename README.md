@@ -1,5 +1,6 @@
 # Mo Skool 🎒
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2a84a33bb8254db186d0c656996251e7)](https://app.codacy.com/manual/Mosh-Media/mo-skool?utm_source=github.com&utm_medium=referral&utm_content=mo-sharif/mo-skool&utm_campaign=Badge_Grade_Dashboard)
 [![CircleCI](https://circleci.com/gh/mo-sharif/MoSkool.svg?style=svg&circle-token=25e17fbacf3e095631aba484af8169e19df89031)](https://moskool.com)
 
 
