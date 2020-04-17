@@ -10,7 +10,13 @@ Sharing knowledge about React frontend development is what Mo Skool all about. M
 
 [![Mo Skool Avanced React](demos/moskool_advanced_demo.gif)](https://moskool.com/courses/mo-pro)
 
-Students are welcomed with a short survey about their current coding skills, then the app will match students with a roadmap relates to their coding skills. The roadmap is made of a series of short interactive questions, the student has the opportunity to interact with the question's code while looking at the real-time preview of the code. Students have the opportunity to learn about HTML, JavaScript, CSS, React, Styled-components, and other frontend topics.
+Best of all, Mo Skool is free to use, and I've built it to provide knowledge for all ages and levels. Expect to learn the following:
+
+- HTML Basics and usage in React
+- Styling components and elements in React
+- Adding JavaScript functionality in React
+- React Hooks, Context API, and Redux
+- Best UI/UX practices
 
 
 # Mo Skool MVP
