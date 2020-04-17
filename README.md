@@ -2,7 +2,9 @@
 
 [![CircleCI](https://circleci.com/gh/mo-sharif/MoSkool.svg?style=svg&circle-token=25e17fbacf3e095631aba484af8169e19df89031)](https://moskool.com)
 
-[![Mo Skool Landing Page](MoSkool_Courses.gif)](https://moskool.com)
+[![Mo Skool Demo](moskool_demo.gif)](https://moskool.com)
+
+[![Mo Skool Avanced React](moskool_advanced_demo.gif)](https://moskool.com/courses/mo-pro)
 
 Mo Skool is a code learning platform featuring an all-new simple, interactive and fun way to learn and master frontend programming languages. Mo Skool's ultimate mission is to provide this learning opportunity for all ages around the world.
 
