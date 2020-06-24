@@ -4,7 +4,7 @@
 [![CircleCI](https://circleci.com/gh/moskool/moskool-react-app.svg?style=svg&circle-token=25e17fbacf3e095631aba484af8169e19df89031)](https://moskool.com)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/0b57ecbebd9b431c8071e0e42fb89b7b)](https://www.codacy.com?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mo-sharif/MoSkool&amp;utm_campaign=Badge_Grade)
 
-![](demos/mo_skool.mp4)
+[![Mo Skool](demos/mo_skool.gif)](https://moskool.com/)
 
 
 Mo Skool built on sharing knowledge about modern React frontend development through fun and interactive questions.  Experience a new visual way to learn and master frontend programming languages. Mo Skool's ultimate mission is to provide this learning opportunity for all ages around the world.
