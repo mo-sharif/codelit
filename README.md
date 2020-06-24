@@ -12,6 +12,10 @@ Mo Skool built on sharing knowledge about modern React frontend development thro
 
 Sharing knowledge about React frontend development is what Mo Skool all about. Mo Skool makes learning React easy, curating important topics and segmenting courses by difficulty levels. Mo Skool delivers courses visually and interactively.
 
+
+[![Mo Skool React Courses](demos/moskool2.gif)](https://moskool.com/courses)
+
+
 Best of all, Mo Skool is free to use, and I've built it to provide knowledge for all ages and levels. Expect to learn the following:
 
 - HTML Basics and usage in React
@@ -20,7 +24,6 @@ Best of all, Mo Skool is free to use, and I've built it to provide knowledge for
 - React Hooks, Context API, and Redux
 - Best UI/UX practices
 
-[![Mo Skool React Courses](demos/moskool2.gif)](https://moskool.com/courses)
 
 [![Mo Skool Avanced React](demos/moskool3.gif)](https://moskool.com/courses/mo-pro)
 
