@@ -5,7 +5,6 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/0b57ecbebd9b431c8071e0e42fb89b7b)](https://www.codacy.com?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mo-sharif/MoSkool&amp;utm_campaign=Badge_Grade)
 
 [![Mo Skool Demo](demos/mo_skool.mp4)](https://moskool.com)
-[![Mo Skool Demo](demos/moskool_demo.gif)](https://moskool.com)
 
 
 Mo Skool built on sharing knowledge about modern React frontend development through fun and interactive questions.  Experience a new visual way to learn and master frontend programming languages. Mo Skool's ultimate mission is to provide this learning opportunity for all ages around the world.
