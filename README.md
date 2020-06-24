@@ -20,8 +20,9 @@ Best of all, Mo Skool is free to use, and I've built it to provide knowledge for
 - React Hooks, Context API, and Redux
 - Best UI/UX practices
 
+[![Mo Skool React Courses](demos/moskool2.gif)](https://moskool.com/courses)
 
-[![Mo Skool Avanced React](demos/moskool_advanced_demo.gif)](https://moskool.com/courses/mo-pro)
+[![Mo Skool Avanced React](demos/moskool3.gif)](https://moskool.com/courses/mo-pro)
 
 
 # Mo Skool MVP
