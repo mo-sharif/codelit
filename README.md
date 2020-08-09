@@ -1,21 +1,28 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
-  <a href="https://www.gatsbyjs.org" style="padding:10px">
-    <img alt="Gatsby" src="https://images.ctfassets.net/d9vefg82sy0n/1V68L9q6YZuMhVQIVPP6bn/0c85b76124e12894c49cab5be47db62f/logo.png" width="60" style="padding:10px"/>
+  <a href="https://moskool.com" style="padding:20px">
+    <img alt="Mo Skool" src="https://images.ctfassets.net/d9vefg82sy0n/1V68L9q6YZuMhVQIVPP6bn/0c85b76124e12894c49cab5be47db62f/logo.png" width="60" style="padding:20px"/>
   </a>
   <a href="https://www.gatsbyjs.org">
-    <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" style="padding:10px"/>
+    <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" style="padding:20px"/>
   </a>
-  <a href="https://www.gatsbyjs.org">
-    <img alt="GraphQL" src="https://graphql.org/img/logo.svg" width="60" style="padding:10px"/>
+  <a href="https://graphql.org/">
+    <img alt="GraphQL" src="https://graphql.org/img/logo.svg" width="60" style="padding:20px"/>
   </a>
-  <a href="https://www.gatsbyjs.org">
-    <img alt="Firebase" src="https://firebase.google.com/downloads/brand-guidelines/SVG/logo-built_white.svg" height="60" style="padding:10px"/>
+  <a href="https://www.firebase.com">
+    <img alt="Firebase" src="https://firebase.google.com/downloads/brand-guidelines/SVG/logo-built_white.svg" height="60" style="padding:20px"/>
   </a>
 </p>
 <h1 align="center">
 </h1>
 <div align="center">
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/32ec837b-5200-471d-a49f-5cd8a250f37f/deploy-status)](https://app.netlify.com/sites/moskool/deploys)
+[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+[![CircleCI](https://circleci.com/gh/moskool/moskool-react-app.svg?style=svg&circle-token=25e17fbacf3e095631aba484af8169e19df89031)](https://moskool.com)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/0b57ecbebd9b431c8071e0e42fb89b7b)](https://www.codacy.com?utm_source=github.com&utm_medium=referral&utm_content=mo-sharif/MoSkool&utm_campaign=Badge_Grade)
+</div>
 
 [![Mo Skool](demos/moskool.gif)](https://moskool.com/)
 
@@ -66,3 +73,5 @@ Building Mo Skool with the future in mind, starting out as a web application but
 # Contribute 🏆
 
 Feel free to send me PR if you would like to join me in building this awesome new platform 😍
+<!-- AUTO-GENERATED-CONTENT:END -->
+
