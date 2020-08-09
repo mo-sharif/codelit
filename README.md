@@ -1,14 +1,27 @@
-# Mo Skool 🎒
-
-
-[![CircleCI](https://circleci.com/gh/moskool/moskool-react-app.svg?style=svg&circle-token=25e17fbacf3e095631aba484af8169e19df89031)](https://moskool.com)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/0b57ecbebd9b431c8071e0e42fb89b7b)](https://www.codacy.com?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mo-sharif/MoSkool&amp;utm_campaign=Badge_Grade)
+<!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
+<p align="center">
+  <a href="https://www.gatsbyjs.org" style="padding:10px">
+    <img alt="Gatsby" src="https://images.ctfassets.net/d9vefg82sy0n/1V68L9q6YZuMhVQIVPP6bn/0c85b76124e12894c49cab5be47db62f/logo.png" width="60" style="padding:10px"/>
+  </a>
+  <a href="https://www.gatsbyjs.org">
+    <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" style="padding:10px"/>
+  </a>
+  <a href="https://www.gatsbyjs.org">
+    <img alt="GraphQL" src="https://graphql.org/img/logo.svg" width="60" style="padding:10px"/>
+  </a>
+  <a href="https://www.gatsbyjs.org">
+    <img alt="Firebase" src="https://firebase.google.com/downloads/brand-guidelines/SVG/logo-built_white.svg" height="60" style="padding:10px"/>
+  </a>
+</p>
+<h1 align="center">
+</h1>
+<div align="center">
 
 [![Mo Skool](demos/moskool.gif)](https://moskool.com/)
 
 
 
-Mo Skool built on sharing knowledge about modern React frontend development through fun and interactive questions.  Experience a new visual way to learn and master frontend programming languages. Mo Skool's ultimate mission is to provide this learning opportunity for all ages around the world.
+Mo Skool built on sharing knowledge about modern React frontend development through fun and interactive questions. Experience a new visual way to learn and master frontend programming languages. Mo Skool's ultimate mission is to provide this learning opportunity for all ages around the world.
 
 Sharing knowledge about React frontend development is what Mo Skool all about. Mo Skool makes learning React easy, curating important topics and segmenting courses by difficulty levels. Mo Skool delivers courses visually and interactively.
 
@@ -46,8 +59,8 @@ I was fortunate enough to move to this country when I was very young, and it was
 Building Mo Skool with the future in mind, starting out as a web application but can be easily developed into a mobile app. 
 
 - [Mo Skool Demo](https://moskool.com)
-- Design: Custom UI library + Material UI
-- Frontend: React (React Hooks, HOC, Context API)
+- Design: Custom library and Material UI
+- Frontend: React, Gatsby and GraphQL
 - Backend: Firebase
 
 # Contribute 🏆
