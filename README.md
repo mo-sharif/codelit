@@ -4,7 +4,7 @@
     <img alt="Mo Skool" src="https://images.ctfassets.net/d9vefg82sy0n/1V68L9q6YZuMhVQIVPP6bn/0c85b76124e12894c49cab5be47db62f/logo.png" width="60" style="padding:20px"/>
   </a>
   <a href="https://www.gatsbyjs.org">
-    <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" style="padding:20px"/>
+    <img alt="Gatsby" src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" width="60" style="padding:20px"/>
   </a>
   <a href="https://graphql.org/">
     <img alt="GraphQL" src="https://graphql.org/img/logo.svg" width="60" style="padding:20px"/>
