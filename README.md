@@ -1,13 +1,13 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://moskool.com" style="padding:20px">
-    <img alt="Mo Skool" src="https://images.ctfassets.net/d9vefg82sy0n/1V68L9q6YZuMhVQIVPP6bn/0c85b76124e12894c49cab5be47db62f/logo.png" width="60" style="padding:20px"/>
+    <img alt="Mo Skool" src="https://images.ctfassets.net/d9vefg82sy0n/1V68L9q6YZuMhVQIVPP6bn/8f0996647cf56ccb1324e027388a4c72/Screen_Shot_2020-08-25_at_9.38.15_PM.png" width="80" style="padding:20px"/>
   </a>
   <a href="https://www.gatsbyjs.org">
-    <img alt="Gatsby" src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" width="60" style="padding:20px"/>
+    <img alt="Gatsby" src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" width="50" style="padding:20px"/>
   </a>
   <a href="https://graphql.org/">
-    <img alt="GraphQL" src="https://graphql.org/img/logo.svg" width="60" style="padding:20px"/>
+    <img alt="GraphQL" src="https://graphql.org/img/logo.svg" width="50" style="padding:20px"/>
   </a>
   <a href="https://www.firebase.com">
     <img alt="Firebase" src="https://firebase.google.com/downloads/brand-guidelines/SVG/logo-built_white.svg" height="60" style="padding:20px"/>
@@ -21,11 +21,44 @@
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 [![CircleCI](https://circleci.com/gh/moskool/moskool-react-app.svg?style=svg&circle-token=25e17fbacf3e095631aba484af8169e19df89031)](https://moskool.com)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/0b57ecbebd9b431c8071e0e42fb89b7b)](https://www.codacy.com?utm_source=github.com&utm_medium=referral&utm_content=mo-sharif/MoSkool&utm_campaign=Badge_Grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/c074b99375dc46d1b6803aa67f0c8bad)](https://www.codacy.com?utm_source=github.com&utm_medium=referral&utm_content=moskool/moskool-gatsby&utm_campaign=Badge_Grade)
+[![This project is using Percy.io for visual regression testing.](https://percy.io/static/images/percy-badge.svg)](https://percy.io/2266c135/mo-skool)
+
 </div>
 
 [![Mo Skool](demos/moskool.gif)](https://moskool.com/)
 
+
+## 💩 Tech powering Mo Skool
+
+- **JAMstack** [JavaScript, APIs, and Markup](https://jamstack.org/)
+  - Gatsby [Static site generator](https://www.gatsbyjs.com/docs/glossary/static-site-generator/)
+  - GraphQL [used for SEO and querying data from firebase](https://www.gatsbyjs.com/docs/graphql/)
+- **Front-end**
+
+  - ReactJs (hooks, context api, global state, and higher order components)
+  - Material UI [Component library, JSS styling and theming](https://material-ui.com/)
+  - Jest unit and snapshot [testing and other testing libraries and dependencies](https://jestjs.io/)
+  - Percy [visual and UI testing](https://percy.io/)
+  - Husky and commitizen for sanity check
+  - TypeScript, ESlint and Prettier
+
+- **Back-end**
+
+  - Google Cloud & Firebase [All your Backend needs](https://console.firebase.google.com)
+  - Contentful [content storage and CDN](https://www.contentful.com/)
+
+- **CI/CD**
+
+  - Circle CI [build verify and deployments ](http://circleci.com/)
+  - Netlify [Back up build verify and deployment](https://www.netlify.com/)
+
+- **Other Tools**
+
+  - Storybook [component library playground](https://storybook.js.org/)
+  - Codacy [code quality check](https://www.codacy.com/)
+  - Sentry [monitors front-end and log errors](https://sentry.io/)
+  - snyk [monitors vulnerabilities in dependencies](https://snyk.io/)
 
 
 Mo Skool built on sharing knowledge about modern React frontend development through fun and interactive questions. Experience a new visual way to learn and master frontend programming languages. Mo Skool's ultimate mission is to provide this learning opportunity for all ages around the world.
