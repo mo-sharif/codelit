@@ -108,3 +108,7 @@ Building Mo Skool with the future in mind, starting out as a web application but
 Feel free to send me PR if you would like to join me in building this awesome new platform 😍
 <!-- AUTO-GENERATED-CONTENT:END -->
 
+
+# Free Resources for Developers
+https://freecoursesite.com/tag/devops/
+
