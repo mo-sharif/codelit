@@ -30,6 +30,7 @@
 
 [![Mo Skool](demos/moskool.gif)](https://moskool.com/)
 
+⚠️ Note: This repo is for presentation purposes only, actual code is private atm ⚠️
 
 ## 💩 Tech powering Mo Skool
 
