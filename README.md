@@ -30,7 +30,7 @@
 
 [![Mo Skool](demos/moskool.gif)](https://moskool.com/)
 
-⚠️ Note: This repo is for presentation purposes only, actual code is private atm ⚠️
+⚠️ Note: This repo is for info purposes only. Actual code is private ⚠️
 
 ## 💩 Tech powering Mo Skool
 
@@ -64,50 +64,30 @@
   - snyk [monitors vulnerabilities in dependencies](https://snyk.io/)
 
 
-Mo Skool built on sharing knowledge about modern React frontend development through fun and interactive questions. Experience a new visual way to learn and master frontend programming languages. Mo Skool's ultimate mission is to provide this learning opportunity for all ages around the world.
-
-Sharing knowledge about React frontend development is what Mo Skool all about. Mo Skool makes learning React easy, curating important topics and segmenting courses by difficulty levels. Mo Skool delivers courses visually and interactively.
+I am building Mo Skool to provide authors with better authoring tools and provide learners with awesome and engaging content and all for free!
 
 
 [![Mo Skool React Courses](demos/moskool2.gif)](https://moskool.com/courses)
 
 
-Best of all, Mo Skool is free to use, and I've built it to provide knowledge for all ages and levels. Expect to learn the following:
-
-- HTML Basics and usage in React
-- Styling components and elements in React
-- Adding JavaScript functionality in React
-- React Hooks, Context API, and Redux
-- Best UI/UX practices
-
+With Mo Skool you can create your skool, and create your courses with custom winning and quizzing challenges!
+And you can watch your students earn points from taking your challenges and finishing your course.
 
 [![Mo Skool Avanced React](demos/moskool3.gif)](https://moskool.com/courses/mo-pro)
 
 
-# Mo Skool MVP
+# Mo Skool cool features
+
+- Rich content editor
 
 
-- Coding editor with syntax highlighter and code beautifier
-- Live preview renderer 
-- Real-time Error console
-- Easy to use author tools to speed up content creation and curation.
-- Progress tracking and learning analysis 
+- Super cool rich content editor, with custom embbedings for iframes, youtube videos, images, and even Stackblitz.
+- Easy to use and self-guided author tools to help you create courses faster.
+- Learners can earn points and track their learning over time. Authors have similar analytic tools to track learning for their students.
+- All courses and skools are SEO friendly.
 
-# About Me 🐾
-
-I was fortunate enough to move to this country when I was very young, and it was my dream to have the freedom to learn at my own pace. Reading articles and watching videos about React wasn't efficient for me. Practicing and writing code was the most effective way for me to learn React. I am developing Mo Skool to become an interactive tool to learn and share knowledge about React and frontend development. Best of all, I want this learning experience to be free and available for everyone to enjoy.
-
-# Technology
-
-Building Mo Skool with the future in mind, starting out as a web application but can be easily developed into a mobile app. 
 
 - [Mo Skool Demo](https://moskool.com)
-- Design: Custom library and Material UI
-- Frontend: React, Gatsby and GraphQL
-- Backend: Firebase
 
-# Contribute 🏆
-
-Feel free to send me PR if you would like to join me in building this awesome new platform 😍
 <!-- AUTO-GENERATED-CONTENT:END -->
 
