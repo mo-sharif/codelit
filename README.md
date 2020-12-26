@@ -28,6 +28,10 @@
 [<img src="https://img.shields.io/badge/slack-@moskool-F61C70.svg?logo=slack">](https://mo-skool.slack.com/archives/C01BD7GDS4F)
 </div>
 
+[![Mo Skool](demos/moskool_mocks2.jpg)](https://moskool.com/)
+
+Hi, my name is Mo Sharif, and I am creating Mo Skool to help new students and developers learn new tech skills quickly. I am developing modern learning tools to make learning more proactive for students by completing challenges and quizzes in coding while earning points and rewards. I am also developing powerful authoring tools for teachers to createrich tech courses and quizzes to share with the world.
+
 [![Mo Skool](demos/moskool.gif)](https://moskool.com/)
 
 ⚠️ Note: This repo is for info purposes only. Actual code is private ⚠️
