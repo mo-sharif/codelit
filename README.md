@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://moskool.com" style="padding:20px">
-    <img alt="Mo Skool" src="https://images.ctfassets.net/d9vefg82sy0n/1V68L9q6YZuMhVQIVPP6bn/8f0996647cf56ccb1324e027388a4c72/Screen_Shot_2020-08-25_at_9.38.15_PM.png" width="80" style="padding:20px"/>
+    <img alt="Mo Skool" src="https://images.ctfassets.net/d9vefg82sy0n/6bMhFh4HURceGGSEjsMCCb/52e896a2ab6bd284d1ab28b56ca65438/moskool-logo-pink.png" width="80" style="padding:20px"/>
   </a>
   <a href="https://www.gatsbyjs.org">
     <img alt="Gatsby" src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" width="50" style="padding:20px"/>
