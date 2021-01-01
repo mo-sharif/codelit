@@ -91,7 +91,7 @@ And you can watch your students earn points from taking your challenges and fini
 - All courses and skools are SEO friendly.
 
 
-- [Mo Skool Demo](https://moskool.com)
+- [Read about Mo Skool's Top Features](https://moskool.com/about/)
 
 <!-- AUTO-GENERATED-CONTENT:END -->
 
