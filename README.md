@@ -30,9 +30,20 @@
 
 [![Mo Skool](demos/moskool_mocks.jpg)](https://moskool.com/)
 
-Hi, my name is Mo Sharif, and I am creating Mo Skool to help new students and developers learn new tech skills quickly. I am developing modern learning tools to make learning more proactive for students by completing challenges and quizzes in coding while earning points and rewards. I am also developing powerful authoring tools for teachers to createrich tech courses and quizzes to share with the world.
+## 🏆 Goals
 
-[![Mo Skool](demos/moskool.gif)](https://moskool.com/)
+- Mo Skool offers a self-guided learning experience for students and developers to master new front-end coding skills.
+- Mo Skool also offers authors and teachers rich content and course creation tools, allowing authors to focus on course creation.
+
+## 🚀 Features
+
+- Super awesome Rich content editor, making course creation fun and easy.
+- Live React code editor with a live preview built into each course, giving students the ability to learn to code interactively.
+- Data and metrics collection about student's learning and skill development. 
+- Learners can earn points and track their learning over time. Authors have similar analytic tools to track learning for their students.
+- All courses and skools are SEO friendly.
+
+[![Mo Skool](https://images.ctfassets.net/d9vefg82sy0n/4hMS11AwsTgZ1cWs94QEjO/c813457e60a661babe7e7807672f18c2/moskool_course_demo.gif)](https://moskool.com/)
 
 ⚠️ Note: This repo is for info purposes only. Actual code is private ⚠️
 
@@ -68,30 +79,13 @@ Hi, my name is Mo Sharif, and I am creating Mo Skool to help new students and de
   - snyk [monitors vulnerabilities in dependencies](https://snyk.io/)
 
 
-I am building Mo Skool to provide authors with better authoring tools and provide learners with awesome and engaging content and all for free!
-
-
 [![Mo Skool React Courses](demos/moskool2.gif)](https://moskool.com/courses)
-
-
-With Mo Skool you can create your skool, and create your courses with custom winning and quizzing challenges!
-And you can watch your students earn points from taking your challenges and finishing your course.
 
 [![Mo Skool Avanced React](demos/moskool3.gif)](https://moskool.com/courses/mo-pro)
 
 
-# Mo Skool cool features
 
-- Rich content editor
-
-
-- Super cool rich content editor, with custom embbedings for iframes, youtube videos, images, and even Stackblitz.
-- Easy to use and self-guided author tools to help you create courses faster.
-- Learners can earn points and track their learning over time. Authors have similar analytic tools to track learning for their students.
-- All courses and skools are SEO friendly.
-
-
-- [Read about Mo Skool's Top Features](https://moskool.com/about/)
+- [Learn more about Mo Skool's Top Features](https://moskool.com/about/)
 
 <!-- AUTO-GENERATED-CONTENT:END -->
 
