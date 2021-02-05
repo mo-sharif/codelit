@@ -43,9 +43,6 @@
 - Learners can earn points and track their learning over time. Authors have similar analytic tools to track learning for their students.
 - All courses and skools are SEO friendly.
 
-[![Mo Skool](https://images.ctfassets.net/d9vefg82sy0n/4hMS11AwsTgZ1cWs94QEjO/c813457e60a661babe7e7807672f18c2/moskool_course_demo.gif)](https://moskool.com/)
-
-⚠️ Note: This repo is for info purposes only. Actual code is private ⚠️
 
 ## 💩 Tech powering Mo Skool
 
@@ -79,9 +76,9 @@
   - snyk [monitors vulnerabilities in dependencies](https://snyk.io/)
 
 
-[![Mo Skool React Courses](demos/moskool2.gif)](https://moskool.com/courses)
+[![Mo Skool](https://images.ctfassets.net/d9vefg82sy0n/4hMS11AwsTgZ1cWs94QEjO/c813457e60a661babe7e7807672f18c2/moskool_course_demo.gif)](https://moskool.com/)
 
-[![Mo Skool Avanced React](demos/moskool3.gif)](https://moskool.com/courses/mo-pro)
+⚠️ Note: This repo is for info purposes only. Actual code is private ⚠️
 
 
 
