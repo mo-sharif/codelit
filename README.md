@@ -30,10 +30,15 @@
 
 [![Mo Skool](demos/moskool_mocks.jpg)](https://moskool.com/)
 
+
 ## 🏆 Goals
 
 - Mo Skool offers a self-guided learning experience for students and developers to master new front-end coding skills.
 - Mo Skool also offers authors and teachers rich content and course creation tools, allowing authors to focus on course creation.
+
+[![Mo Skool](https://images.ctfassets.net/d9vefg82sy0n/4hMS11AwsTgZ1cWs94QEjO/0946632fd6902b2603bed1d48e148d15/moskool_course_demo.gif)](https://moskool.com/)
+
+
 
 ## 🚀 Features
 
@@ -42,6 +47,7 @@
 - Data and metrics collection about student's learning and skill development. 
 - Learners can earn points and track their learning over time. Authors have similar analytic tools to track learning for their students.
 - All courses and skools are SEO friendly.
+
 
 
 ## 💩 Tech powering Mo Skool
@@ -76,10 +82,7 @@
   - snyk [monitors vulnerabilities in dependencies](https://snyk.io/)
 
 
-[![Mo Skool](https://images.ctfassets.net/d9vefg82sy0n/4hMS11AwsTgZ1cWs94QEjO/0946632fd6902b2603bed1d48e148d15/moskool_course_demo.gif)](https://moskool.com/)
-
 ⚠️ Note: This repo is for info purposes only. Actual code is private ⚠️
-
 
 
 - [Learn more about Mo Skool's Top Features](https://moskool.com/about/)
