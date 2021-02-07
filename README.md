@@ -76,7 +76,7 @@
   - snyk [monitors vulnerabilities in dependencies](https://snyk.io/)
 
 
-[![Mo Skool](https://images.ctfassets.net/d9vefg82sy0n/4hMS11AwsTgZ1cWs94QEjO/c813457e60a661babe7e7807672f18c2/moskool_course_demo.gif)](https://moskool.com/)
+[![Mo Skool](https://images.ctfassets.net/d9vefg82sy0n/4hMS11AwsTgZ1cWs94QEjO/0946632fd6902b2603bed1d48e148d15/moskool_course_demo.gif)](https://moskool.com/)
 
 ⚠️ Note: This repo is for info purposes only. Actual code is private ⚠️
 
