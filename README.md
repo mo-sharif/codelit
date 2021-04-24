@@ -28,15 +28,15 @@
 [<img src="https://img.shields.io/badge/slack-@moskool-F61C70.svg?logo=slack">](https://mo-skool.slack.com/archives/C01BD7GDS4F)
 </div>
 
-[![Mo Skool](demos/moskool_mocks.jpg)](https://Codelit.io/)
+[![Codelit](demos/moskool_mocks.jpg)](https://Codelit.io/)
 
 
 ## 🏆 Goals
 
-- Mo Skool offers a self-guided learning experience for students and developers to master new front-end coding skills.
-- Mo Skool also offers authors and teachers rich content and course creation tools, allowing authors to focus on course creation.
+- Codelit offers a self-guided learning experience for students and developers to master new front-end coding skills.
+- Codelit also offers authors and teachers rich content and course creation tools, allowing authors to focus on course creation.
 
-[![Mo Skool](https://images.ctfassets.net/d9vefg82sy0n/4hMS11AwsTgZ1cWs94QEjO/0946632fd6902b2603bed1d48e148d15/moskool_course_demo.gif)](https://Codelit.io/)
+[![Codelit](https://images.ctfassets.net/d9vefg82sy0n/4hMS11AwsTgZ1cWs94QEjO/0946632fd6902b2603bed1d48e148d15/moskool_course_demo.gif)](https://Codelit.io/)
 
 
 
