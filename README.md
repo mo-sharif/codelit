@@ -17,7 +17,7 @@
 </h1>
 <div align="center">
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/32ec837b-5200-471d-a49f-5cd8a250f37f/deploy-status)](https://app.netlify.com/sites/moskool/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/32ec837b-5200-471d-a49f-5cd8a250f37f/deploy-status)](https://app.netlify.com/sites/codelit/deploys)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://mo-skool.slack.com/archives/C01BD7GDS4F)
 [![CircleCI](https://circleci.com/gh/moskool/moskool-gatsby.svg?style=svg&circle-token=46b7c6105a4174f6449f91974713cc08ebb8e61a)](https://Codelit.io)
