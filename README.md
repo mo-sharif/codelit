@@ -25,7 +25,7 @@
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/c074b99375dc46d1b6803aa67f0c8bad)](https://www.codacy.com?utm_source=github.com&utm_medium=referral&utm_content=moskool/moskool-gatsby&utm_campaign=Badge_Grade)
 [![This project is using Percy.io for visual regression testing.](https://percy.io/static/images/percy-badge.svg)](https://percy.io/2266c135/mo-skool)
 
-[<img src="https://img.shields.io/badge/slack-@codelit-io-F61C70.svg?logo=slack">](https://join.slack.com/t/codelit-io/shared_invite/zt-q69j11dg-7~fspv6CmG4Gof6esXpI4A)
+[<img src="https://img.shields.io/badge/slack-@codelit-F61C70.svg?logo=slack">](https://join.slack.com/t/codelit-io/shared_invite/zt-q69j11dg-7~fspv6CmG4Gof6esXpI4A)
 </div>
 
 [![Codelit](demos/moskool_mocks.jpg)](https://Codelit.io/)
