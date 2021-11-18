@@ -89,3 +89,7 @@
 
 <!-- AUTO-GENERATED-CONTENT:END -->
 
+
+# Free Resources for Developers
+https://freecoursesite.com/tag/devops/
+
