@@ -20,7 +20,8 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/32ec837b-5200-471d-a49f-5cd8a250f37f/deploy-status)](https://app.netlify.com/sites/codelit/deploys)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://join.slack.com/t/codelit-io/shared_invite/zt-q69j11dg-7~fspv6CmG4Gof6esXpI4A)
-[![CircleCI](https://circleci.com/gh/moskool/moskool-gatsby.svg?style=svg&circle-token=46b7c6105a4174f6449f91974713cc08ebb8e61a)](https://Codelit.io)
+[![CircleCI](https://circleci.com/gh/codelit-io/moskool-gatsby.svg?style=svg&circle-token=46b7c6105a4174f6449f91974713cc08ebb8e61a)](https://Codelit.io)
+  
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/c074b99375dc46d1b6803aa67f0c8bad)](https://www.codacy.com?utm_source=github.com&utm_medium=referral&utm_content=moskool/moskool-gatsby&utm_campaign=Badge_Grade)
 [![This project is using Percy.io for visual regression testing.](https://percy.io/static/images/percy-badge.svg)](https://percy.io/2266c135/mo-skool)
