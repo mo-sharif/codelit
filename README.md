@@ -33,8 +33,7 @@
 
 ## 🏆 Goals
 
-- Codelit offers a self-guided learning experience for students and developers to master new front-end coding skills.
-- Codelit also offers authors and teachers rich content and course creation tools, allowing authors to focus on course creation.
+Codelit is the fastest way to create React-based code challenges and courses. Codelit simplifies the learning and teaching process by equipping coders with powerful and easy-to-use tools to create, curate, and share interactive and SEO-ready code challenges easily with dev communities worldwide. Codelit is powered by React, Gatsby, GraphQL, and Firebase.
 
 [![Codelit](https://images.ctfassets.net/d9vefg82sy0n/4hMS11AwsTgZ1cWs94QEjO/0946632fd6902b2603bed1d48e148d15/moskool_course_demo.gif)](https://Codelit.io/)
 
@@ -42,15 +41,15 @@
 
 ## 🚀 Features
 
-- Super awesome Rich content editor, making course creation fun and easy.
-- Live React code editor with a live preview built into each course, giving students the ability to learn to code interactively.
+- Rich content editor with IDE embeds.
+- Live React code editor with a live preview built into each course.
 - Data and metrics collection about student's learning and skill development. 
-- Learners can earn points and track their learning over time. Authors have similar analytic tools to track learning for their students.
-- All courses and skools are SEO friendly.
+- Coders can earn points and track their learning over time. Authors have similar analytic tools to track learning for their students.
+- All courses and communities are SEO friendly.
 
 
 
-## 💩 Tech powering Mo Skool
+## 💩 Tech powering Codelit
 
 - **JAMstack** [JavaScript, APIs, and Markup](https://jamstack.org/)
   - Gatsby [Static site generator](https://www.gatsbyjs.com/docs/glossary/static-site-generator/)
@@ -85,7 +84,7 @@
 ⚠️ Note: This repo is for info purposes only. Actual code is private ⚠️
 
 
-- [Learn more about Mo Skool's Top Features](https://Codelit.io/courses/explore-mo-skool-q3qy/1/)
+- [Learn more about Codelit's Top Features](https://Codelit.io/courses/explore-mo-skool-q3qy/1/)
 
 <!-- AUTO-GENERATED-CONTENT:END -->
 
